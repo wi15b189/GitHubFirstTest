@@ -17,8 +17,6 @@ namespace ConsoleApp2
 
             //Das ist der RandyBranchy
             //das is der khalli wally
-
-            //Test Test Test
         }
     }
 }
