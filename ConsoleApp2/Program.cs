@@ -22,7 +22,7 @@ namespace ConsoleApp2
             //konflikt
             //konflikt - neu
 
-            //hallo DJ KHAAAAAALLLLEEED
+            //hallo DJ KHAAAAAALLLLEEED 06.10.2017
         }
     }
 }
