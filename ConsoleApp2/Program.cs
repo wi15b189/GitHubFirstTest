@@ -14,6 +14,15 @@ namespace ConsoleApp2
             //change in branchA
 
             //Fetch Test
+
+            //Das ist der RandyBranchy
+            //das is der khalli wally
+
+            //Test Test Test konflikt2
+            //konflikt
+            //konflikt - neu
+
+            //hallo DJ KHAAAAAALLLLEEED 06.10.2017
         }
     }
 }
